@@ -768,7 +768,7 @@
     }
 }
 
-//test push
+//test push。。。
 
 -(void)clickPass:(id)sender
 {
